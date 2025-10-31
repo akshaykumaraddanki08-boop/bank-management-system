@@ -1,0 +1,8 @@
+BankManagementSystem/
+│
+├── src/
+│   ├── Main.java
+│   ├── BankAccount.java
+│   └── Bank.java
+│
+└── README.md
